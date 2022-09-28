@@ -1,0 +1,44 @@
+header {
+    text-align: center;
+    margin: 0 0;
+}
+
+header div {
+    text-align: center;
+    width: 490px;
+    margin: 0 0;
+}
+
+.bana {
+    margin: 0 auto;
+    display: block;
+
+    text-align: center;
+
+    width: 100%;
+}
+
+.link {
+    width: 500px;
+}
+
+.link .showProgramming {
+    display: block;
+
+    background: #e89ffe;
+    color: #fff;
+
+    border-radius: 5px;
+
+    font-weight: bold;
+
+    text-decoration: none;
+
+    width: 150px;
+    height: 70px;
+}
+
+@media screen and (min-width: 960px)
+{
+
+}
